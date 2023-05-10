@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/无人机 (1).png</file>
+    <file>icon/close.png</file>
+  </qresource>
+  <qresource prefix="新前缀"/>
+  <qresource prefix="images">
+    <file>images/wallhaven-2k1v6x.png</file>
+    <file>images/wallhaven-2kqpex.jpg</file>
+    <file>images/wallhaven-6qdz1w.jpg</file>
+    <file>images/wallhaven-d579gm.jpg</file>
+    <file>images/wallhaven-j5xeoy.jpg</file>
+    <file>images/wallhaven-p85qk3.jpg</file>
+    <file>images/wallhaven-lmv6er.jpg</file>
+  </qresource>
+</RCC>
